@@ -2,12 +2,6 @@ import os
 import json
 import numpy as np
 import pandas as pd
-import umap
-import tltk
-from pythainlp import word_vector
-from pythainlp.corpus import thai_words
-from pythainlp.tokenize import word_tokenize, syllable_tokenize
-from pythainlp.tag import pos_tag
 from scipy.spatial.distance import cosine
 from scipy.cluster.hierarchy import linkage, fcluster
 from openai import OpenAI
@@ -23,6 +17,7 @@ _TH_MODEL = None
 _TH_WORD_SET = None
 
 def get_thai_model():
+    from pythainlp import word_vector
     global _TH_MODEL
     if _TH_MODEL is None:
         print("Loading Thai Word Vector Model...")
@@ -30,6 +25,7 @@ def get_thai_model():
     return _TH_MODEL
 
 def get_thai_word_set():
+    from pythainlp.corpus import thai_words
     global _TH_WORD_SET
     if _TH_WORD_SET is None:
         _TH_WORD_SET = thai_words()
@@ -123,6 +119,8 @@ def translate_french_sentence(french_word, thai_word, french_sentence):
         return ""
 
 def get_word_type(word):
+    import tltk
+    from pythainlp.tokenize import word_tokenize
     mapping = {
         'PRON': 'Pronom',
         'NOUN': 'Nom',
@@ -182,6 +180,7 @@ def find_best_split(word, syllables, th_model):
     return best_parts, best_score
 
 def get_french_components(word):
+    from pythainlp.tokenize import syllable_tokenize
     th_model = get_thai_model()
     th_word_set = get_thai_word_set()
     THRESHOLD = 0.04
@@ -238,6 +237,8 @@ def get_french_components(word):
     return None
 
 def get_flashcard_infos(thai_word, french_word, french_sentence):
+    import tltk
+    from pythainlp.tokenize import word_tokenize
     # 1) Handle empty sentence by generating a pair
     if not french_sentence:
         pair = generate_example_sentence_pair(french_word, thai_word)
@@ -324,6 +325,7 @@ def get_optimized_3d_coordinates(vectors_list):
     return final_coords
 
 def get_3d_coordinates(vectors_list):
+    import umap
     # Vectors list should be a list of lists or numpy array
     reducer = umap.UMAP(n_neighbors=15, n_components=3, min_dist=0.1, metric='cosine', random_state=42)
     embeddings_3d = reducer.fit_transform(vectors_list)
