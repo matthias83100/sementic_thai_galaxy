@@ -1,4 +1,4 @@
-
+import os
 import json
 import numpy as np
 import pandas as pd
@@ -12,9 +12,9 @@ from scipy.spatial.distance import cosine
 from scipy.cluster.hierarchy import linkage, fcluster
 from openai import OpenAI
 
-# Initialize OpenAI Client
+# Initialize OpenAI Client (Typhoon)
 client = OpenAI(
-    api_key="sk-nFAqvfvctsAL9KYjDYfvE2mZhuDs2pwbeqyVVeN73KFOzC6A",
+    api_key=os.environ.get("TYPHOON_API_KEY"),
     base_url="https://api.opentyphoon.ai/v1"
 )
 
