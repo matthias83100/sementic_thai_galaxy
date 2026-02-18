@@ -1,0 +1,13 @@
+django>=5.0
+djangorestframework
+whitenoise[brotli]
+gunicorn
+numpy
+pandas
+umap-learn
+tltk
+pythainlp
+scipy
+openai
+python-dotenv
+gensim

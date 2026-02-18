@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: vocab-app
+    env: python
+    buildCommand: "./render_build.sh"
+    startCommand: "gunicorn vocab_project.wsgi"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DJANGO_SECRET_KEY
+        generateValue: true
+      - key: DEBUG
+        value: "False"
+      - key: ALLOWED_HOSTS
+        value: ".onrender.com"

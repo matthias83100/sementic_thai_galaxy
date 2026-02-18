@@ -1,0 +1,3306 @@
+[
+    {
+        "id": 1,
+        "word": {
+            "id": 1,
+            "thai": "ฉัน",
+            "french": "je"
+        },
+        "x": -0.9681357741355896,
+        "y": -0.06087566912174225,
+        "z": 0.24291418492794037,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันหิว",
+            "french_sentence": "J'ai faim.",
+            "sub_words": [
+                "ฉัน",
+                "หิว"
+            ],
+            "romanization": "chan",
+            "sentence_romanization": "chan hio",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:41.292259Z",
+        "last_review_date": null
+    },
+    {
+        "id": 2,
+        "word": {
+            "id": 2,
+            "thai": "คุณ",
+            "french": "vous/tu"
+        },
+        "x": -0.980978786945343,
+        "y": -0.15785518288612366,
+        "z": 0.112971231341362,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "คุณเป็นอย่างไรบ้าง",
+            "french_sentence": "Comment allez-vous ?",
+            "sub_words": [
+                "คุณ",
+                "เป็น",
+                "อย่างไรบ้าง"
+            ],
+            "romanization": "khun",
+            "sentence_romanization": "khun pen yangraibang",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:42.516048Z",
+        "last_review_date": "2026-02-17T07:26:17.660069Z"
+    },
+    {
+        "id": 3,
+        "word": {
+            "id": 3,
+            "thai": "เขา",
+            "french": "il/elle"
+        },
+        "x": -0.9930306077003479,
+        "y": 0.01630183681845665,
+        "z": 0.11672432720661163,
+        "cluster_id": 6,
+        "cluster_label": "Pronouns",
+        "flashcard_infos": {
+            "thai_sentence": "เขาชอบกินผลไม้",
+            "french_sentence": "Il aime manger des fruits.",
+            "sub_words": [
+                "เขา",
+                "ชอบ",
+                "กิน",
+                "ผลไม้"
+            ],
+            "romanization": "khao",
+            "sentence_romanization": "khao chop kin phonlamai",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:44.239554Z",
+        "last_review_date": null
+    },
+    {
+        "id": 4,
+        "word": {
+            "id": 4,
+            "thai": "เธอ",
+            "french": "elle"
+        },
+        "x": -0.9893714785575867,
+        "y": 0.14137856662273407,
+        "z": 0.03400537371635437,
+        "cluster_id": 6,
+        "cluster_label": "Pronouns",
+        "flashcard_infos": {
+            "thai_sentence": "เธอสวยมาก",
+            "french_sentence": "Elle est très belle.",
+            "sub_words": [
+                "เธอ",
+                "สวย",
+                "มาก"
+            ],
+            "romanization": "thoe",
+            "sentence_romanization": "thoe suai mak",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:45.437337Z",
+        "last_review_date": null
+    },
+    {
+        "id": 5,
+        "word": {
+            "id": 5,
+            "thai": "เรา",
+            "french": "nous/on"
+        },
+        "x": -0.9790804386138916,
+        "y": -0.19176849722862244,
+        "z": -0.06801766902208328,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เราไปเที่ยว",
+            "french_sentence": "Nous allons partir en voyage.",
+            "sub_words": [
+                "เรา",
+                "ไปเที่ยว"
+            ],
+            "romanization": "rao",
+            "sentence_romanization": "rao paithiao",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:46.502248Z",
+        "last_review_date": null
+    },
+    {
+        "id": 6,
+        "word": {
+            "id": 6,
+            "thai": "พวกเรา",
+            "french": "nous"
+        },
+        "x": -0.9548341631889343,
+        "y": -0.29464536905288696,
+        "z": 0.03841760754585266,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "พวกเราเป็นเพื่อนกัน",
+            "french_sentence": "Nous sommes amis.",
+            "sub_words": [
+                "พวกเรา",
+                "เป็นเพื่อน",
+                "กัน"
+            ],
+            "romanization": "phuakrao",
+            "sentence_romanization": "phuakrao penphuean kan",
+            "word_type": "Pronom",
+            "components": [
+                [
+                    "พวก",
+                    "เรา"
+                ],
+                [
+                    "groupe",
+                    "nous"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:48.557304Z",
+        "last_review_date": null
+    },
+    {
+        "id": 7,
+        "word": {
+            "id": 7,
+            "thai": "พวกเขา",
+            "french": "ils/elles"
+        },
+        "x": -0.9923157095909119,
+        "y": 0.07182995975017548,
+        "z": -0.10074694454669952,
+        "cluster_id": 6,
+        "cluster_label": "Pronouns",
+        "flashcard_infos": {
+            "thai_sentence": "พวกเขาจะไปโรงเรียน",
+            "french_sentence": "Ils vont à l'école.",
+            "sub_words": [
+                "พวกเขา",
+                "จะ",
+                "ไป",
+                "โรงเรียน"
+            ],
+            "romanization": "phuakkhao",
+            "sentence_romanization": "phuakkhao cha pai rongrian",
+            "word_type": "Pronom",
+            "components": [
+                [
+                    "พวก",
+                    "เขา"
+                ],
+                [
+                    "eux",
+                    "ils"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:50.954403Z",
+        "last_review_date": null
+    },
+    {
+        "id": 8,
+        "word": {
+            "id": 8,
+            "thai": "นี่",
+            "french": "ceci"
+        },
+        "x": -0.9685273170471191,
+        "y": -0.1375228315591812,
+        "z": -0.207466721534729,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "นี่คืออะไร",
+            "french_sentence": "Qu'est-ce que c'est ?",
+            "sub_words": [
+                "นี่",
+                "คือ",
+                "อะไร"
+            ],
+            "romanization": "ni",
+            "sentence_romanization": "ni khue arai",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:52.421995Z",
+        "last_review_date": null
+    },
+    {
+        "id": 9,
+        "word": {
+            "id": 9,
+            "thai": "นั่น",
+            "french": "cela"
+        },
+        "x": -0.9639386534690857,
+        "y": 0.05460608750581741,
+        "z": -0.2604622542858124,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "นั่นบ้านของฉัน",
+            "french_sentence": "C'est ma maison.",
+            "sub_words": [
+                "นั่น",
+                "บ้าน",
+                "ของ",
+                "ฉัน"
+            ],
+            "romanization": "nan",
+            "sentence_romanization": "nan ban khong chan",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:53.751965Z",
+        "last_review_date": null
+    },
+    {
+        "id": 10,
+        "word": {
+            "id": 10,
+            "thai": "ที่นี่",
+            "french": "ici"
+        },
+        "x": -0.8830540776252747,
+        "y": -0.16878430545330048,
+        "z": -0.43786686658859253,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "อากาศดีที่นี่",
+            "french_sentence": "Le temps est beau ici.",
+            "sub_words": [
+                "อากาศ",
+                "ดี",
+                "ที่นี่"
+            ],
+            "romanization": "thini",
+            "sentence_romanization": "akat di thini",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ที่",
+                    "นี่"
+                ],
+                [
+                    "endroit",
+                    "cette"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:55.746779Z",
+        "last_review_date": null
+    },
+    {
+        "id": 11,
+        "word": {
+            "id": 11,
+            "thai": "ที่นั่น",
+            "french": "là-bas"
+        },
+        "x": -0.9383008480072021,
+        "y": -0.07098080217838287,
+        "z": -0.33845725655555725,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ที่นั่นคือที่ไหน",
+            "french_sentence": "C'est où là-bas ?",
+            "sub_words": [
+                "ที่นั่น",
+                "คือ",
+                "ที่ไหน"
+            ],
+            "romanization": "thinan",
+            "sentence_romanization": "thinan khue thinai",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ที่",
+                    "นั่น"
+                ],
+                [
+                    "endroit",
+                    "cela"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:35:57.952371Z",
+        "last_review_date": null
+    },
+    {
+        "id": 12,
+        "word": {
+            "id": 12,
+            "thai": "อะไร",
+            "french": "quoi"
+        },
+        "x": -0.8225357532501221,
+        "y": -0.5400684475898743,
+        "z": -0.17821583151817322,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "คุณกำลังทำอะไรอยู่",
+            "french_sentence": "Que faites-vous ?",
+            "sub_words": [
+                "คุณ",
+                "กำลัง",
+                "ทำ",
+                "อะไร",
+                "อยู่"
+            ],
+            "romanization": "arai",
+            "sentence_romanization": "khun kamlang tham arai yu",
+            "word_type": "Pronom",
+            "components": [
+                [
+                    "อะ",
+                    "ไร"
+                ],
+                [
+                    "quoi",
+                    "rien"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:00.159753Z",
+        "last_review_date": null
+    },
+    {
+        "id": 13,
+        "word": {
+            "id": 13,
+            "thai": "ใคร",
+            "french": "qui"
+        },
+        "x": -0.8962883949279785,
+        "y": -0.43024134635925293,
+        "z": -0.1075153797864914,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ใครคือเขา",
+            "french_sentence": "Qui est-il ?",
+            "sub_words": [
+                "ใคร",
+                "คือ",
+                "เขา"
+            ],
+            "romanization": "khrai",
+            "sentence_romanization": "khrai khue khao",
+            "word_type": "Pronom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 4,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:01.389456Z",
+        "last_review_date": "2026-02-17T07:26:40.769500Z"
+    },
+    {
+        "id": 14,
+        "word": {
+            "id": 14,
+            "thai": "ที่ไหน",
+            "french": "où"
+        },
+        "x": -0.8562186360359192,
+        "y": -0.37151283025741577,
+        "z": -0.3589816689491272,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ที่ไหนคุณอยู่",
+            "french_sentence": "Où êtes-vous ?",
+            "sub_words": [
+                "ที่ไหน",
+                "คุณ",
+                "อยู่"
+            ],
+            "romanization": "thinai",
+            "sentence_romanization": "thinai khun yu",
+            "word_type": "Pronom",
+            "components": [
+                [
+                    "ที่",
+                    "ไหน"
+                ],
+                [
+                    "endroit",
+                    "où"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:03.407045Z",
+        "last_review_date": null
+    },
+    {
+        "id": 15,
+        "word": {
+            "id": 15,
+            "thai": "เมื่อไหร่",
+            "french": "quand"
+        },
+        "x": -0.7693151235580444,
+        "y": -0.45855510234832764,
+        "z": -0.44483867287635803,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เมื่อไหร่คุณจะมา",
+            "french_sentence": "Quand viendrez-vous ?",
+            "sub_words": [
+                "เมื่อไหร่",
+                "คุณ",
+                "จะ",
+                "มา"
+            ],
+            "romanization": "muearai",
+            "sentence_romanization": "muearai khun cha ma",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:04.773168Z",
+        "last_review_date": null
+    },
+    {
+        "id": 16,
+        "word": {
+            "id": 16,
+            "thai": "ทำไม",
+            "french": "pourquoi"
+        },
+        "x": -0.8907447457313538,
+        "y": -0.4526786506175995,
+        "z": 0.04069339111447334,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ทำไมคุณถึงมาสายล่ะ",
+            "french_sentence": "Pourquoi êtes-vous en retard ?",
+            "sub_words": [
+                "ทำไม",
+                "คุณ",
+                "ถึง",
+                "มาสาย",
+                "ล่ะ"
+            ],
+            "romanization": "thammai",
+            "sentence_romanization": "thammai khun thueng masai la",
+            "word_type": "Particule",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:06.238595Z",
+        "last_review_date": null
+    },
+    {
+        "id": 17,
+        "word": {
+            "id": 17,
+            "thai": "อย่างไร",
+            "french": "comment"
+        },
+        "x": -0.762881875038147,
+        "y": -0.565455973148346,
+        "z": -0.31348180770874023,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "อย่างไรจะทำได้",
+            "french_sentence": "Comment faire ?",
+            "sub_words": [
+                "อย่างไร",
+                "จะ",
+                "ทำได้"
+            ],
+            "romanization": "yangrai",
+            "sentence_romanization": "yangrai cha thamdai",
+            "word_type": "Adverbe",
+            "components": [
+                [
+                    "อย่าง",
+                    "ไร"
+                ],
+                [
+                    "façon",
+                    "quoi"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:08.619186Z",
+        "last_review_date": null
+    },
+    {
+        "id": 18,
+        "word": {
+            "id": 18,
+            "thai": "ใช่",
+            "french": "oui"
+        },
+        "x": -0.6167622208595276,
+        "y": -0.7101806402206421,
+        "z": 0.3394817113876343,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ใช่, ฉันเห็นด้วย",
+            "french_sentence": "Oui, je suis d'accord.",
+            "sub_words": [
+                "ใช่",
+                ",",
+                " ",
+                "ฉัน",
+                "เห็นด้วย"
+            ],
+            "romanization": "chai",
+            "sentence_romanization": "chai ,   chan henduai",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:09.851189Z",
+        "last_review_date": null
+    },
+    {
+        "id": 19,
+        "word": {
+            "id": 19,
+            "thai": "ไม่",
+            "french": "non"
+        },
+        "x": 0.593915581703186,
+        "y": -0.7188727259635925,
+        "z": 0.36122897267341614,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันไม่รู้",
+            "french_sentence": "Je ne sais pas.",
+            "sub_words": [
+                "ฉัน",
+                "ไม่",
+                "รู้"
+            ],
+            "romanization": "mai",
+            "sentence_romanization": "chan mai ru",
+            "word_type": "Particule",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:11.040097Z",
+        "last_review_date": null
+    },
+    {
+        "id": 20,
+        "word": {
+            "id": 20,
+            "thai": "ได้",
+            "french": "possible"
+        },
+        "x": 0.8102602958679199,
+        "y": -0.5016279220581055,
+        "z": 0.30306389927864075,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันทำได้",
+            "french_sentence": "Je peux le faire.",
+            "sub_words": [
+                "ฉัน",
+                "ทำได้"
+            ],
+            "romanization": "dai",
+            "sentence_romanization": "chan thamdai",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:12.119091Z",
+        "last_review_date": null
+    },
+    {
+        "id": 21,
+        "word": {
+            "id": 21,
+            "thai": "มี",
+            "french": "avoir"
+        },
+        "x": 0.7925082445144653,
+        "y": -0.4252740740776062,
+        "z": 0.43711861968040466,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "มีเงิน",
+            "french_sentence": "J'ai de l'argent.",
+            "sub_words": [
+                "มีเงิน"
+            ],
+            "romanization": "mi",
+            "sentence_romanization": "mingoen",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:13.131136Z",
+        "last_review_date": null
+    },
+    {
+        "id": 22,
+        "word": {
+            "id": 22,
+            "thai": "ไม่มี",
+            "french": "ne pas avoir"
+        },
+        "x": 0.6424826383590698,
+        "y": -0.6146789193153381,
+        "z": 0.4575870633125305,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ไม่มีเวลา",
+            "french_sentence": "Je n'ai pas le temps.",
+            "sub_words": [
+                "ไม่",
+                "มี",
+                "เวลา"
+            ],
+            "romanization": "maimi",
+            "sentence_romanization": "mai mi wela",
+            "word_type": "Particule",
+            "components": [
+                [
+                    "ไม่",
+                    "มี"
+                ],
+                [
+                    "pas",
+                    "avoir"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:15.100030Z",
+        "last_review_date": null
+    },
+    {
+        "id": 23,
+        "word": {
+            "id": 23,
+            "thai": "เป็น",
+            "french": "être"
+        },
+        "x": 0.8862012028694153,
+        "y": -0.3377006947994232,
+        "z": 0.31718409061431885,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันเป็นนักศึกษา",
+            "french_sentence": "Je suis étudiant.",
+            "sub_words": [
+                "ฉัน",
+                "เป็น",
+                "นักศึกษา"
+            ],
+            "romanization": "pen",
+            "sentence_romanization": "chan pen naksueksa",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:16.328166Z",
+        "last_review_date": null
+    },
+    {
+        "id": 24,
+        "word": {
+            "id": 24,
+            "thai": "อยู่",
+            "french": "être (se trouver)"
+        },
+        "x": 0.9782286286354065,
+        "y": -0.20055270195007324,
+        "z": 0.05336067080497742,
+        "cluster_id": 5,
+        "cluster_label": "Degree Adverbs",
+        "flashcard_infos": {
+            "thai_sentence": "เขากำลังอยู่ที่บ้าน",
+            "french_sentence": "Il est à la maison.",
+            "sub_words": [
+                "เขา",
+                "กำลัง",
+                "อยู่",
+                "ที่",
+                "บ้าน"
+            ],
+            "romanization": "yu",
+            "sentence_romanization": "khao kamlang yu thi ban",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:17.758006Z",
+        "last_review_date": null
+    },
+    {
+        "id": 25,
+        "word": {
+            "id": 25,
+            "thai": "ไป",
+            "french": "aller"
+        },
+        "x": 0.8915412425994873,
+        "y": -0.42669111490249634,
+        "z": -0.1519508957862854,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันจะไปตลาด",
+            "french_sentence": "Je vais au marché.",
+            "sub_words": [
+                "ฉัน",
+                "จะ",
+                "ไป",
+                "ตลาด"
+            ],
+            "romanization": "pai",
+            "sentence_romanization": "chan cha pai talat",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 4,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:19.094995Z",
+        "last_review_date": "2026-02-17T07:26:47.289145Z"
+    },
+    {
+        "id": 26,
+        "word": {
+            "id": 26,
+            "thai": "มา",
+            "french": "venir"
+        },
+        "x": 0.9452766180038452,
+        "y": -0.23226726055145264,
+        "z": -0.22913776338100433,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เขามาที่นี่",
+            "french_sentence": "Il vient ici.",
+            "sub_words": [
+                "เขา",
+                "มา",
+                "ที่นี่"
+            ],
+            "romanization": "ma",
+            "sentence_romanization": "khao ma thini",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:20.642757Z",
+        "last_review_date": null
+    },
+    {
+        "id": 27,
+        "word": {
+            "id": 27,
+            "thai": "กลับ",
+            "french": "retourner"
+        },
+        "x": 0.8862737417221069,
+        "y": -0.46299001574516296,
+        "z": 0.01261185947805643,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันจะกลับบ้าน",
+            "french_sentence": "Je vais rentrer à la maison.",
+            "sub_words": [
+                "ฉัน",
+                "จะ",
+                "กลับบ้าน"
+            ],
+            "romanization": "klap",
+            "sentence_romanization": "chan cha klapban",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:21.829366Z",
+        "last_review_date": null
+    },
+    {
+        "id": 28,
+        "word": {
+            "id": 28,
+            "thai": "เข้า",
+            "french": "entrer"
+        },
+        "x": 0.945073127746582,
+        "y": -0.2496691644191742,
+        "z": 0.21095532178878784,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เข้ามาได้เลยครับ",
+            "french_sentence": "Entrez, s'il vous plaît.",
+            "sub_words": [
+                "เข้ามา",
+                "ได้",
+                "เลย",
+                "ครับ"
+            ],
+            "romanization": "khao",
+            "sentence_romanization": "khaoma dai loei khrap",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:23.220691Z",
+        "last_review_date": null
+    },
+    {
+        "id": 29,
+        "word": {
+            "id": 29,
+            "thai": "ออก",
+            "french": "sortir"
+        },
+        "x": 0.9362075328826904,
+        "y": -0.3411491811275482,
+        "z": 0.08445494621992111,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เขาออกแล้ว",
+            "french_sentence": "Il est sorti.",
+            "sub_words": [
+                "เขา",
+                "ออก",
+                "แล้ว"
+            ],
+            "romanization": "ok",
+            "sentence_romanization": "khao ok laeo",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:24.434262Z",
+        "last_review_date": null
+    },
+    {
+        "id": 30,
+        "word": {
+            "id": 30,
+            "thai": "ทำ",
+            "french": "faire"
+        },
+        "x": 0.7158004641532898,
+        "y": -0.10500643402338028,
+        "z": 0.69036465883255,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ทำอะไรอยู่",
+            "french_sentence": "Que fais-tu ?",
+            "sub_words": [
+                "ทำ",
+                "อะไร",
+                "อยู่"
+            ],
+            "romanization": "tham",
+            "sentence_romanization": "tham arai yu",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:25.665907Z",
+        "last_review_date": null
+    },
+    {
+        "id": 31,
+        "word": {
+            "id": 31,
+            "thai": "พูด",
+            "french": "parler"
+        },
+        "x": 0.28639957308769226,
+        "y": 0.15816760063171387,
+        "z": 0.9449647665023804,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เขาพูดภาษาไทยได้",
+            "french_sentence": "Il peut parler thaï.",
+            "sub_words": [
+                "เขา",
+                "พูด",
+                "ภาษาไทย",
+                "ได้"
+            ],
+            "romanization": "phut",
+            "sentence_romanization": "khao phut phasathai dai",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:26.965333Z",
+        "last_review_date": null
+    },
+    {
+        "id": 32,
+        "word": {
+            "id": 32,
+            "thai": "ฟัง",
+            "french": "écouter"
+        },
+        "x": 0.02984212338924408,
+        "y": 0.30017074942588806,
+        "z": 0.9534186124801636,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฟังเพลงกันเถอะ",
+            "french_sentence": "Écoutons de la musique.",
+            "sub_words": [
+                "ฟังเพลง",
+                "กัน",
+                "เถอะ"
+            ],
+            "romanization": "fang",
+            "sentence_romanization": "fangphleng kan thoe",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:28.147198Z",
+        "last_review_date": "2026-02-17T07:56:06.259207Z"
+    },
+    {
+        "id": 33,
+        "word": {
+            "id": 33,
+            "thai": "ดู",
+            "french": "regarder"
+        },
+        "x": 0.1462154984474182,
+        "y": 0.20657306909561157,
+        "z": 0.9674443602561951,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันชอบดูหนัง",
+            "french_sentence": "J'aime regarder des films.",
+            "sub_words": [
+                "ฉัน",
+                "ชอบ",
+                "ดู",
+                "หนัง"
+            ],
+            "romanization": "du",
+            "sentence_romanization": "chan chop du nang",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:29.469560Z",
+        "last_review_date": null
+    },
+    {
+        "id": 34,
+        "word": {
+            "id": 34,
+            "thai": "อ่าน",
+            "french": "lire"
+        },
+        "x": 0.19894666969776154,
+        "y": 0.33861586451530457,
+        "z": 0.9196518659591675,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เขาชอบอ่านหนังสือ",
+            "french_sentence": "Il aime lire des livres.",
+            "sub_words": [
+                "เขา",
+                "ชอบ",
+                "อ่านหนังสือ"
+            ],
+            "romanization": "an",
+            "sentence_romanization": "khao chop annangsue",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:30.681581Z",
+        "last_review_date": "2026-02-17T07:25:51.853392Z"
+    },
+    {
+        "id": 35,
+        "word": {
+            "id": 35,
+            "thai": "เขียน",
+            "french": "écrire"
+        },
+        "x": 0.4937696158885956,
+        "y": 0.08183076977729797,
+        "z": 0.8657339811325073,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เขียนจดหมายฉบับหนึ่ง",
+            "french_sentence": "J'écris une lettre.",
+            "sub_words": [
+                "เขียนจดหมาย",
+                "ฉบับ",
+                "หนึ่ง"
+            ],
+            "romanization": "khian",
+            "sentence_romanization": "khianchotmai chabap nueng",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:32.297272Z",
+        "last_review_date": null
+    },
+    {
+        "id": 36,
+        "word": {
+            "id": 36,
+            "thai": "เรียน",
+            "french": "étudier"
+        },
+        "x": 0.5493078231811523,
+        "y": 0.2759808599948883,
+        "z": 0.7887303233146667,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันกำลังเรียนภาษาฝรั่งเศส",
+            "french_sentence": "J'apprends le français.",
+            "sub_words": [
+                "ฉัน",
+                "กำลัง",
+                "เรียน",
+                "ภาษา",
+                "ฝรั่งเศส"
+            ],
+            "romanization": "rian",
+            "sentence_romanization": "chan kamlang rian phasa farangset",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:33.887298Z",
+        "last_review_date": null
+    },
+    {
+        "id": 37,
+        "word": {
+            "id": 37,
+            "thai": "สอน",
+            "french": "enseigner"
+        },
+        "x": 0.6805950999259949,
+        "y": 0.03478236496448517,
+        "z": 0.7318336367607117,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ครูสอนคณิตศาสตร์",
+            "french_sentence": "Le professeur enseigne les mathématiques.",
+            "sub_words": [
+                "ครู",
+                "สอน",
+                "คณิตศาสตร์"
+            ],
+            "romanization": "son",
+            "sentence_romanization": "khru son khanittasat",
+            "word_type": "Inconnu",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:35.095905Z",
+        "last_review_date": null
+    },
+    {
+        "id": 38,
+        "word": {
+            "id": 38,
+            "thai": "รู้",
+            "french": "savoir"
+        },
+        "x": -0.04922524839639664,
+        "y": -0.005517491605132818,
+        "z": 0.9987725019454956,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันรู้ความจริง",
+            "french_sentence": "Je connais la vérité.",
+            "sub_words": [
+                "ฉัน",
+                "รู้",
+                "ความจริง"
+            ],
+            "romanization": "ru",
+            "sentence_romanization": "chan ru khwamching",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:36.305426Z",
+        "last_review_date": null
+    },
+    {
+        "id": 39,
+        "word": {
+            "id": 39,
+            "thai": "เข้าใจ",
+            "french": "comprendre"
+        },
+        "x": 0.07619216293096542,
+        "y": 0.07663512229919434,
+        "z": 0.9941438436508179,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เข้าใจแล้ว",
+            "french_sentence": "J'ai compris.",
+            "sub_words": [
+                "เข้าใจ",
+                "แล้ว"
+            ],
+            "romanization": "khaochai",
+            "sentence_romanization": "khaochai laeo",
+            "word_type": "Verbe",
+            "components": [
+                [
+                    "เข้า",
+                    "ใจ"
+                ],
+                [
+                    "entrer",
+                    "cœur"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:38.231447Z",
+        "last_review_date": null
+    },
+    {
+        "id": 40,
+        "word": {
+            "id": 40,
+            "thai": "คิด",
+            "french": "penser"
+        },
+        "x": 0.1104104220867157,
+        "y": -0.11642202734947205,
+        "z": 0.9870437979698181,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันคิดถึงเธอ",
+            "french_sentence": "Je pense à toi.",
+            "sub_words": [
+                "ฉัน",
+                "คิดถึง",
+                "เธอ"
+            ],
+            "romanization": "khit",
+            "sentence_romanization": "chan khitthueng thoe",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:39.418425Z",
+        "last_review_date": null
+    },
+    {
+        "id": 41,
+        "word": {
+            "id": 41,
+            "thai": "ชอบ",
+            "french": "aimer (bien)"
+        },
+        "x": 0.314794659614563,
+        "y": -0.4301658570766449,
+        "z": 0.8460860848426819,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ชอบแมว",
+            "french_sentence": "J'aime les chats.",
+            "sub_words": [
+                "ชอบ",
+                "แมว"
+            ],
+            "romanization": "chop",
+            "sentence_romanization": "chop maeo",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:41.151784Z",
+        "last_review_date": null
+    },
+    {
+        "id": 42,
+        "word": {
+            "id": 42,
+            "thai": "รัก",
+            "french": "aimer"
+        },
+        "x": -0.09660259634256363,
+        "y": -0.37343311309814453,
+        "z": 0.9226135015487671,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "รักแม่ของฉัน",
+            "french_sentence": "J'aime ma mère.",
+            "sub_words": [
+                "รัก",
+                "แม่",
+                "ของ",
+                "ฉัน"
+            ],
+            "romanization": "rak",
+            "sentence_romanization": "rak mae khong chan",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:42.424998Z",
+        "last_review_date": null
+    },
+    {
+        "id": 43,
+        "word": {
+            "id": 43,
+            "thai": "อยาก",
+            "french": "vouloir"
+        },
+        "x": 0.03673224151134491,
+        "y": -0.544398844242096,
+        "z": 0.8380218744277954,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "อยากไปญี่ปุ่น",
+            "french_sentence": "Je veux aller au Japon.",
+            "sub_words": [
+                "อยาก",
+                "ไป",
+                "ญี่ปุ่น"
+            ],
+            "romanization": "yak",
+            "sentence_romanization": "yak pai yipun",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:43.810467Z",
+        "last_review_date": null
+    },
+    {
+        "id": 44,
+        "word": {
+            "id": 44,
+            "thai": "ต้อง",
+            "french": "devoir"
+        },
+        "x": 0.6928451061248779,
+        "y": -0.4918067455291748,
+        "z": 0.5273441672325134,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ต้องไปทำงาน",
+            "french_sentence": "Je dois aller travailler.",
+            "sub_words": [
+                "ต้อง",
+                "ไป",
+                "ทำงาน"
+            ],
+            "romanization": "tong",
+            "sentence_romanization": "tong pai thamngan",
+            "word_type": "Auxiliaire",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:45.352938Z",
+        "last_review_date": null
+    },
+    {
+        "id": 45,
+        "word": {
+            "id": 45,
+            "thai": "สามารถ",
+            "french": "être capable"
+        },
+        "x": 0.7124579548835754,
+        "y": -0.362514853477478,
+        "z": 0.6008216142654419,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "สามารถว่ายน้ำได้",
+            "french_sentence": "Il sait nager.",
+            "sub_words": [
+                "สามารถ",
+                "ว่ายน้ำ",
+                "ได้"
+            ],
+            "romanization": "samat",
+            "sentence_romanization": "samat wainam dai",
+            "word_type": "Auxiliaire",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:46.607861Z",
+        "last_review_date": null
+    },
+    {
+        "id": 46,
+        "word": {
+            "id": 46,
+            "thai": "ช่วย",
+            "french": "aider"
+        },
+        "x": 0.6764114499092102,
+        "y": -0.2497202455997467,
+        "z": 0.6928977966308594,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ช่วยผมด้วยครับ",
+            "french_sentence": "Aidez-moi, s'il vous plaît.",
+            "sub_words": [
+                "ช่วย",
+                "ผม",
+                "ด้วย",
+                "ครับ"
+            ],
+            "romanization": "chuai",
+            "sentence_romanization": "chuai phom duai khrap",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:47.933683Z",
+        "last_review_date": null
+    },
+    {
+        "id": 47,
+        "word": {
+            "id": 47,
+            "thai": "ให้",
+            "french": "donner"
+        },
+        "x": 0.8821719288825989,
+        "y": -0.4296235144138336,
+        "z": 0.19286362826824188,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันให้ของขวัญกับเขา",
+            "french_sentence": "Je lui donne un cadeau.",
+            "sub_words": [
+                "ฉัน",
+                "ให้",
+                "ของขวัญ",
+                "กับ",
+                "เขา"
+            ],
+            "romanization": "hai",
+            "sentence_romanization": "chan hai khongkhwan kap khao",
+            "word_type": "Conjonction (sub)",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:49.353175Z",
+        "last_review_date": null
+    },
+    {
+        "id": 48,
+        "word": {
+            "id": 48,
+            "thai": "เอา",
+            "french": "prendre"
+        },
+        "x": 0.9799014925956726,
+        "y": -0.17565226554870605,
+        "z": -0.09454867988824844,
+        "cluster_id": 2,
+        "cluster_label": "Directional Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เอาตัวนี้",
+            "french_sentence": "Je prends celui-ci.",
+            "sub_words": [
+                "เอา",
+                "ตัว",
+                "นี้"
+            ],
+            "romanization": "ao",
+            "sentence_romanization": "ao tua ni",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:50.537172Z",
+        "last_review_date": null
+    },
+    {
+        "id": 49,
+        "word": {
+            "id": 49,
+            "thai": "ซื้อ",
+            "french": "acheter"
+        },
+        "x": 0.7636346817016602,
+        "y": 0.11425724625587463,
+        "z": 0.6354584693908691,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันซื้อผลไม้",
+            "french_sentence": "J'achète des fruits.",
+            "sub_words": [
+                "ฉัน",
+                "ซื้อ",
+                "ผลไม้"
+            ],
+            "romanization": "sue",
+            "sentence_romanization": "chan sue phonlamai",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:51.742152Z",
+        "last_review_date": null
+    },
+    {
+        "id": 50,
+        "word": {
+            "id": 50,
+            "thai": "ขาย",
+            "french": "vendre"
+        },
+        "x": 0.8509900569915771,
+        "y": 0.07612581551074982,
+        "z": 0.5196352005004883,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เขาขายรถของเขา",
+            "french_sentence": "Il vend sa voiture.",
+            "sub_words": [
+                "เขา",
+                "ขาย",
+                "รถ",
+                "ของ",
+                "เขา"
+            ],
+            "romanization": "khai",
+            "sentence_romanization": "khao khai rot khong khao",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:53.164914Z",
+        "last_review_date": null
+    },
+    {
+        "id": 51,
+        "word": {
+            "id": 51,
+            "thai": "กิน",
+            "french": "manger"
+        },
+        "x": 0.3386220335960388,
+        "y": 0.28968968987464905,
+        "z": 0.8952178955078125,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันกินข้าว",
+            "french_sentence": "Je mange du riz.",
+            "sub_words": [
+                "ฉัน",
+                "กินข้าว"
+            ],
+            "romanization": "kin",
+            "sentence_romanization": "chan kinkhao",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:54.258361Z",
+        "last_review_date": null
+    },
+    {
+        "id": 52,
+        "word": {
+            "id": 52,
+            "thai": "ดื่ม",
+            "french": "boire"
+        },
+        "x": 0.09335839003324509,
+        "y": 0.4757651090621948,
+        "z": 0.874603807926178,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันดื่มน้ำ",
+            "french_sentence": "Je bois de l'eau.",
+            "sub_words": [
+                "ฉัน",
+                "ดื่ม",
+                "น้ำ"
+            ],
+            "romanization": "duem",
+            "sentence_romanization": "chan duem nam",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:55.444067Z",
+        "last_review_date": null
+    },
+    {
+        "id": 53,
+        "word": {
+            "id": 53,
+            "thai": "นอน",
+            "french": "dormir"
+        },
+        "x": 0.07219181954860687,
+        "y": 0.6714234948158264,
+        "z": 0.7375493049621582,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันอยากนอน",
+            "french_sentence": "Je veux dormir.",
+            "sub_words": [
+                "ฉัน",
+                "อยาก",
+                "นอน"
+            ],
+            "romanization": "non",
+            "sentence_romanization": "chan yak non",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:56.966927Z",
+        "last_review_date": null
+    },
+    {
+        "id": 54,
+        "word": {
+            "id": 54,
+            "thai": "ตื่น",
+            "french": "se réveiller"
+        },
+        "x": -0.3758918344974518,
+        "y": 0.35230445861816406,
+        "z": 0.8570805191993713,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันตื่นแต่เช้า",
+            "french_sentence": "Je me réveille tôt.",
+            "sub_words": [
+                "ฉัน",
+                "ตื่น",
+                "แต่เช้า"
+            ],
+            "romanization": "tuen",
+            "sentence_romanization": "chan tuen taechao",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:58.221774Z",
+        "last_review_date": null
+    },
+    {
+        "id": 55,
+        "word": {
+            "id": 55,
+            "thai": "เดิน",
+            "french": "marcher"
+        },
+        "x": 0.28543633222579956,
+        "y": 0.7378212809562683,
+        "z": 0.6116746068000793,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันเดินเพื่อไปโรงเรียน",
+            "french_sentence": "Je marche pour aller à l'école.",
+            "sub_words": [
+                "ฉัน",
+                "เดิน",
+                "เพื่อ",
+                "ไป",
+                "โรงเรียน"
+            ],
+            "romanization": "doen",
+            "sentence_romanization": "chan doen phuea pai rongrian",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:36:59.671860Z",
+        "last_review_date": null
+    },
+    {
+        "id": 56,
+        "word": {
+            "id": 56,
+            "thai": "วิ่ง",
+            "french": "courir"
+        },
+        "x": 0.2674298584461212,
+        "y": 0.8679891228675842,
+        "z": 0.41842105984687805,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เขาชอบวิ่ง",
+            "french_sentence": "Il aime courir.",
+            "sub_words": [
+                "เขา",
+                "ชอบ",
+                "วิ่ง"
+            ],
+            "romanization": "wing",
+            "sentence_romanization": "khao chop wing",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:00.860834Z",
+        "last_review_date": null
+    },
+    {
+        "id": 57,
+        "word": {
+            "id": 57,
+            "thai": "นั่ง",
+            "french": "s’asseoir"
+        },
+        "x": 0.08919090777635574,
+        "y": 0.7728203535079956,
+        "z": 0.6283261179924011,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "นั่งครับ",
+            "french_sentence": "Asseyez-vous, s'il vous plaît.",
+            "sub_words": [
+                "นั่ง",
+                "ครับ"
+            ],
+            "romanization": "nang",
+            "sentence_romanization": "nang khrap",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:01.962375Z",
+        "last_review_date": null
+    },
+    {
+        "id": 58,
+        "word": {
+            "id": 58,
+            "thai": "ยืน",
+            "french": "se tenir debout"
+        },
+        "x": 0.24866901338100433,
+        "y": 0.6348500847816467,
+        "z": 0.7315252423286438,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เขายืนอยู่ที่นั่น",
+            "french_sentence": "Il se tient là-bas.",
+            "sub_words": [
+                "เขา",
+                "ยืน",
+                "อยู่",
+                "ที่นั่น"
+            ],
+            "romanization": "yuen",
+            "sentence_romanization": "khao yuen yu thinan",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:03.274975Z",
+        "last_review_date": null
+    },
+    {
+        "id": 59,
+        "word": {
+            "id": 59,
+            "thai": "เปิด",
+            "french": "ouvrir"
+        },
+        "x": 0.8056042194366455,
+        "y": -0.14045174419879913,
+        "z": 0.5755651593208313,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เปิดประตูให้หน่อยได้ไหมคะ",
+            "french_sentence": "Ouvrez la porte, s'il vous plaît.",
+            "sub_words": [
+                "เปิด",
+                "ประตู",
+                "ให้",
+                "หน่อย",
+                "ได้",
+                "ไหม",
+                "คะ"
+            ],
+            "romanization": "poet",
+            "sentence_romanization": "poet pratu hai noi dai mai kha",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:04.915907Z",
+        "last_review_date": null
+    },
+    {
+        "id": 60,
+        "word": {
+            "id": 60,
+            "thai": "ปิด",
+            "french": "fermer"
+        },
+        "x": 0.8799208402633667,
+        "y": -0.06277436017990112,
+        "z": 0.47095510363578796,
+        "cluster_id": 7,
+        "cluster_label": "Action Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "ปิดไฟ",
+            "french_sentence": "Éteignez la lumière.",
+            "sub_words": [
+                "ปิดไฟ"
+            ],
+            "romanization": "pit",
+            "sentence_romanization": "pitfai",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:05.882343Z",
+        "last_review_date": null
+    },
+    {
+        "id": 61,
+        "word": {
+            "id": 61,
+            "thai": "เริ่ม",
+            "french": "commencer"
+        },
+        "x": 0.8364022374153137,
+        "y": -0.26586833596229553,
+        "z": 0.4793176054954529,
+        "cluster_id": 1,
+        "cluster_label": "Modal and Negation Auxiliary Verbs",
+        "flashcard_infos": {
+            "thai_sentence": "เริ่มกันเถอะ",
+            "french_sentence": "Commençons.",
+            "sub_words": [
+                "เริ่ม",
+                "กัน",
+                "เถอะ"
+            ],
+            "romanization": "roem",
+            "sentence_romanization": "roem kan thoe",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:07.082990Z",
+        "last_review_date": null
+    },
+    {
+        "id": 62,
+        "word": {
+            "id": 62,
+            "thai": "หยุด",
+            "french": "arrêter"
+        },
+        "x": 0.9296871423721313,
+        "y": -0.1280164122581482,
+        "z": 0.3453892171382904,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "หยุดรถไว้ตรงนี้",
+            "french_sentence": "Arrêtez la voiture ici.",
+            "sub_words": [
+                "หยุด",
+                "รถ",
+                "ไว้",
+                "ตรงนี้"
+            ],
+            "romanization": "yut",
+            "sentence_romanization": "yut rot wai trongni",
+            "word_type": "Verbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:08.825203Z",
+        "last_review_date": null
+    },
+    {
+        "id": 63,
+        "word": {
+            "id": 63,
+            "thai": "เร็ว",
+            "french": "rapide"
+        },
+        "x": 0.28587988018989563,
+        "y": 0.3760342001914978,
+        "z": -0.881402850151062,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "รถคันนี้วิ่งเร็ว",
+            "french_sentence": "Cette voiture roule vite.",
+            "sub_words": [
+                "รถ",
+                "คัน",
+                "นี้",
+                "วิ่ง",
+                "เร็ว"
+            ],
+            "romanization": "reo",
+            "sentence_romanization": "rot khan ni wing reo",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:10.492498Z",
+        "last_review_date": null
+    },
+    {
+        "id": 64,
+        "word": {
+            "id": 64,
+            "thai": "ช้า",
+            "french": "lent"
+        },
+        "x": 0.12621812522411346,
+        "y": 0.40573760867118835,
+        "z": -0.9052325487136841,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "พูดช้าๆ ได้ไหมคะ",
+            "french_sentence": "Parlez lentement, s'il vous plaît.",
+            "sub_words": [
+                "พูด",
+                "ช้าๆ",
+                " ",
+                "ได้",
+                "ไหม",
+                "คะ"
+            ],
+            "romanization": "cha",
+            "sentence_romanization": "phut cha cha   dai mai kha",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:11.888239Z",
+        "last_review_date": null
+    },
+    {
+        "id": 65,
+        "word": {
+            "id": 65,
+            "thai": "ดี",
+            "french": "bon"
+        },
+        "x": 0.4756641387939453,
+        "y": 0.14372482895851135,
+        "z": -0.8678057789802551,
+        "cluster_id": 5,
+        "cluster_label": "Degree Adverbs",
+        "flashcard_infos": {
+            "thai_sentence": "อาหารนี้ดีมาก",
+            "french_sentence": "Cette nourriture est très bonne.",
+            "sub_words": [
+                "อาหาร",
+                "นี้",
+                "ดีมาก"
+            ],
+            "romanization": "di",
+            "sentence_romanization": "ahan ni dimak",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:13.063089Z",
+        "last_review_date": null
+    },
+    {
+        "id": 66,
+        "word": {
+            "id": 66,
+            "thai": "แย่",
+            "french": "mauvais"
+        },
+        "x": 0.29709091782569885,
+        "y": 0.10823109745979309,
+        "z": -0.9486954808235168,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "วันนี้อากาศแย่",
+            "french_sentence": "Le temps est mauvais aujourd'hui.",
+            "sub_words": [
+                "วันนี้",
+                "อากาศ",
+                "แย่"
+            ],
+            "romanization": "yae",
+            "sentence_romanization": "wanni akat yae",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:14.276273Z",
+        "last_review_date": null
+    },
+    {
+        "id": 67,
+        "word": {
+            "id": 67,
+            "thai": "สวย",
+            "french": "beau/belle"
+        },
+        "x": 0.416726678609848,
+        "y": 0.2816166281700134,
+        "z": -0.8643094897270203,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ดอกไม้นี้สวย",
+            "french_sentence": "Cette fleur est belle.",
+            "sub_words": [
+                "ดอกไม้",
+                "นี้",
+                "สวย"
+            ],
+            "romanization": "suai",
+            "sentence_romanization": "dokmai ni suai",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:15.448748Z",
+        "last_review_date": null
+    },
+    {
+        "id": 68,
+        "word": {
+            "id": 68,
+            "thai": "ใหญ่",
+            "french": "grand"
+        },
+        "x": 0.5120113492012024,
+        "y": 0.4915749132633209,
+        "z": -0.704413652420044,
+        "cluster_id": 4,
+        "cluster_label": "Size Adjectives",
+        "flashcard_infos": {
+            "thai_sentence": "บ้านหลังนี้ใหญ่",
+            "french_sentence": "Cette maison est grande.",
+            "sub_words": [
+                "บ้าน",
+                "หลัง",
+                "นี้",
+                "ใหญ่"
+            ],
+            "romanization": "yai",
+            "sentence_romanization": "ban lang ni yai",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:16.754928Z",
+        "last_review_date": null
+    },
+    {
+        "id": 69,
+        "word": {
+            "id": 69,
+            "thai": "เล็ก",
+            "french": "petit"
+        },
+        "x": 0.6323568224906921,
+        "y": 0.34692955017089844,
+        "z": -0.6926504969596863,
+        "cluster_id": 4,
+        "cluster_label": "Size Adjectives",
+        "flashcard_infos": {
+            "thai_sentence": "สุนัขตัวนี้เล็ก",
+            "french_sentence": "Ce chien est petit.",
+            "sub_words": [
+                "สุนัข",
+                "ตัว",
+                "นี้",
+                "เล็ก"
+            ],
+            "romanization": "lek",
+            "sentence_romanization": "sunak tua ni lek",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:18.082583Z",
+        "last_review_date": "2026-02-17T07:26:11.884926Z"
+    },
+    {
+        "id": 70,
+        "word": {
+            "id": 70,
+            "thai": "มาก",
+            "french": "beaucoup"
+        },
+        "x": 0.8101509213447571,
+        "y": 0.01805422268807888,
+        "z": -0.585943341255188,
+        "cluster_id": 5,
+        "cluster_label": "Degree Adverbs",
+        "flashcard_infos": {
+            "thai_sentence": "ขอบคุณมาก",
+            "french_sentence": "Merci beaucoup.",
+            "sub_words": [
+                "ขอบคุณ",
+                "มาก"
+            ],
+            "romanization": "mak",
+            "sentence_romanization": "khopkhun mak",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:19.127644Z",
+        "last_review_date": "2026-02-17T07:26:24.478748Z"
+    },
+    {
+        "id": 71,
+        "word": {
+            "id": 71,
+            "thai": "น้อย",
+            "french": "peu"
+        },
+        "x": 0.7097130417823792,
+        "y": 0.2205982655286789,
+        "z": -0.6690619587898254,
+        "cluster_id": 5,
+        "cluster_label": "Degree Adverbs",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันมีเงินน้อย",
+            "french_sentence": "J'ai peu d'argent.",
+            "sub_words": [
+                "ฉัน",
+                "มีเงิน",
+                "น้อย"
+            ],
+            "romanization": "noi",
+            "sentence_romanization": "chan mingoen noi",
+            "word_type": "Adverbe",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:20.479292Z",
+        "last_review_date": null
+    },
+    {
+        "id": 72,
+        "word": {
+            "id": 72,
+            "thai": "ใหม่",
+            "french": "nouveau"
+        },
+        "x": 0.5110862851142883,
+        "y": 0.36181560158729553,
+        "z": -0.7796668410301208,
+        "cluster_id": 4,
+        "cluster_label": "Size Adjectives",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันมีเสื้อผ้าชิ้นใหม่ๆ",
+            "french_sentence": "J'ai de nouveaux vêtements.",
+            "sub_words": [
+                "ฉัน",
+                "มี",
+                "เสื้อผ้า",
+                "ชิ้น",
+                "ใหม่",
+                "ๆ"
+            ],
+            "romanization": "mai",
+            "sentence_romanization": "chan mi sueapha chin mai ๆ",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:22.557645Z",
+        "last_review_date": "2026-02-17T07:26:28.324367Z"
+    },
+    {
+        "id": 73,
+        "word": {
+            "id": 73,
+            "thai": "เก่า",
+            "french": "vieux"
+        },
+        "x": 0.3912639021873474,
+        "y": 0.44888055324554443,
+        "z": -0.8033796548843384,
+        "cluster_id": 4,
+        "cluster_label": "Size Adjectives",
+        "flashcard_infos": {
+            "thai_sentence": "หนังสือเล่มนี้เก่า",
+            "french_sentence": "Ce livre est vieux.",
+            "sub_words": [
+                "หนังสือ",
+                "เล่ม",
+                "นี้",
+                "เก่า"
+            ],
+            "romanization": "kao",
+            "sentence_romanization": "nangsue lem ni kao",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:23.905272Z",
+        "last_review_date": null
+    },
+    {
+        "id": 74,
+        "word": {
+            "id": 74,
+            "thai": "ร้อน",
+            "french": "chaud"
+        },
+        "x": 0.009987824596464634,
+        "y": 0.6128073334693909,
+        "z": -0.7901692986488342,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "วันนี้อากาศร้อนจัด",
+            "french_sentence": "Il fait chaud aujourd'hui.",
+            "sub_words": [
+                "วันนี้",
+                "อากาศ",
+                "ร้อน",
+                "จัด"
+            ],
+            "romanization": "ron",
+            "sentence_romanization": "wanni akat ron chat",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:25.217379Z",
+        "last_review_date": null
+    },
+    {
+        "id": 75,
+        "word": {
+            "id": 75,
+            "thai": "หนาว",
+            "french": "froid"
+        },
+        "x": -0.1258307248353958,
+        "y": 0.5570459365844727,
+        "z": -0.8208937048912048,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันรู้สึกหนาว",
+            "french_sentence": "J'ai froid.",
+            "sub_words": [
+                "ฉัน",
+                "รู้สึก",
+                "หนาว"
+            ],
+            "romanization": "nao",
+            "sentence_romanization": "chan rusuek nao",
+            "word_type": "Adjectif",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:26.403666Z",
+        "last_review_date": null
+    },
+    {
+        "id": 76,
+        "word": {
+            "id": 76,
+            "thai": "วันนี้",
+            "french": "aujourd’hui"
+        },
+        "x": -0.7811615467071533,
+        "y": 0.1358657330274582,
+        "z": -0.6093661785125732,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "วันนี้ เป็นวันจันทร์",
+            "french_sentence": "Aujourd'hui, c'est lundi.",
+            "sub_words": [
+                "วันนี้",
+                " ",
+                "เป็น",
+                "วัน",
+                "จันทร์"
+            ],
+            "romanization": "wanni",
+            "sentence_romanization": "wanni   pen wan chan",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "วัน",
+                    "นี้"
+                ],
+                [
+                    "jour",
+                    "cet"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:28.497138Z",
+        "last_review_date": null
+    },
+    {
+        "id": 77,
+        "word": {
+            "id": 77,
+            "thai": "พรุ่งนี้",
+            "french": "demain"
+        },
+        "x": -0.6489229798316956,
+        "y": -0.5112395286560059,
+        "z": -0.5635008811950684,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "พรุ่งนี้เจอกัน",
+            "french_sentence": "À demain.",
+            "sub_words": [
+                "พรุ่งนี้",
+                "เจอกัน"
+            ],
+            "romanization": "phrungni",
+            "sentence_romanization": "phrungni choekan",
+            "word_type": "Conjonction (coord)",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:29.588365Z",
+        "last_review_date": null
+    },
+    {
+        "id": 78,
+        "word": {
+            "id": 78,
+            "thai": "เมื่อวาน",
+            "french": "hier"
+        },
+        "x": -0.5377009510993958,
+        "y": -0.6105440258979797,
+        "z": -0.5814754962921143,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เมื่อวาน มีฝนตก",
+            "french_sentence": "Hier, il a plu.",
+            "sub_words": [
+                "เมื่อวาน",
+                " ",
+                "มี",
+                "ฝนตก"
+            ],
+            "romanization": "mueawan",
+            "sentence_romanization": "mueawan   mi fontok",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "เมื่อ",
+                    "วาน"
+                ],
+                [
+                    "lorsque",
+                    "jour passé"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:31.597756Z",
+        "last_review_date": null
+    },
+    {
+        "id": 79,
+        "word": {
+            "id": 79,
+            "thai": "ตอนนี้",
+            "french": "maintenant"
+        },
+        "x": -0.9001416563987732,
+        "y": 0.03825191780924797,
+        "z": -0.43391451239585876,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ตอนนี้เวลาเท่าไรแล้ว",
+            "french_sentence": "Quelle heure est-il maintenant ?",
+            "sub_words": [
+                "ตอนนี้",
+                "เวลา",
+                "เท่าไร",
+                "แล้ว"
+            ],
+            "romanization": "tonni",
+            "sentence_romanization": "tonni wela thaorai laeo",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ตอน",
+                    "นี้"
+                ],
+                [
+                    "moment",
+                    "ici"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:34.082817Z",
+        "last_review_date": null
+    },
+    {
+        "id": 80,
+        "word": {
+            "id": 80,
+            "thai": "เช้า",
+            "french": "matin"
+        },
+        "x": -0.3703708052635193,
+        "y": 0.30802497267723083,
+        "z": -0.8763253092765808,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ดื่มกาแฟตอนเช้า",
+            "french_sentence": "Boire du café le matin.",
+            "sub_words": [
+                "ดื่ม",
+                "กาแฟ",
+                "ตอนเช้า"
+            ],
+            "romanization": "chao",
+            "sentence_romanization": "duem kafae tonchao",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:35.306058Z",
+        "last_review_date": null
+    },
+    {
+        "id": 81,
+        "word": {
+            "id": 81,
+            "thai": "บ่าย",
+            "french": "après-midi"
+        },
+        "x": -0.41996750235557556,
+        "y": 0.42757219076156616,
+        "z": -0.8005056381225586,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เจอกันตอนบ่าย",
+            "french_sentence": "On se voit l'après-midi.",
+            "sub_words": [
+                "เจอกัน",
+                "ตอนบ่าย"
+            ],
+            "romanization": "bai",
+            "sentence_romanization": "choekan tonbai",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:36.398475Z",
+        "last_review_date": null
+    },
+    {
+        "id": 82,
+        "word": {
+            "id": 82,
+            "thai": "เย็น",
+            "french": "soir"
+        },
+        "x": -0.3432601988315582,
+        "y": 0.5503154397010803,
+        "z": -0.7611343264579773,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "กินดinnerตอนเย็น",
+            "french_sentence": "Dîner le soir.",
+            "sub_words": [
+                "กิน",
+                "ด",
+                "inner",
+                "ตอนเย็น"
+            ],
+            "romanization": "yen",
+            "sentence_romanization": "kin do inner tonyen",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:37.587227Z",
+        "last_review_date": null
+    },
+    {
+        "id": 83,
+        "word": {
+            "id": 83,
+            "thai": "กลางคืน",
+            "french": "nuit"
+        },
+        "x": -0.25297480821609497,
+        "y": 0.2377510815858841,
+        "z": -0.9378049969673157,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "นอนตอนกลางคืน",
+            "french_sentence": "Dormir la nuit.",
+            "sub_words": [
+                "นอน",
+                "ตอนกลางคืน"
+            ],
+            "romanization": "klangkhuen",
+            "sentence_romanization": "non tonklangkhuen",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "กลาง",
+                    "คืน"
+                ],
+                [
+                    "milieu",
+                    "nuit"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:39.427539Z",
+        "last_review_date": null
+    },
+    {
+        "id": 84,
+        "word": {
+            "id": 84,
+            "thai": "เวลา",
+            "french": "temps/heure"
+        },
+        "x": -0.5955803990364075,
+        "y": 0.5459674596786499,
+        "z": -0.5892398357391357,
+        "cluster_id": 3,
+        "cluster_label": "Time Expressions",
+        "flashcard_infos": {
+            "thai_sentence": "เวลาเป็นสิ่งมีค่า",
+            "french_sentence": "Le temps est précieux.",
+            "sub_words": [
+                "เวลา",
+                "เป็น",
+                "สิ่ง",
+                "มีค่า"
+            ],
+            "romanization": "wela",
+            "sentence_romanization": "wela pen sing mikha",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:40.716919Z",
+        "last_review_date": null
+    },
+    {
+        "id": 85,
+        "word": {
+            "id": 85,
+            "thai": "วัน",
+            "french": "jour"
+        },
+        "x": -0.4966849982738495,
+        "y": 0.23882035911083221,
+        "z": -0.8344272971153259,
+        "cluster_id": 3,
+        "cluster_label": "Time Expressions",
+        "flashcard_infos": {
+            "thai_sentence": "เป็นวันที่มีแดดจัด",
+            "french_sentence": "C'est une journée ensoleillée.",
+            "sub_words": [
+                "เป็น",
+                "วันที่",
+                "มี",
+                "แดดจัด"
+            ],
+            "romanization": "wan",
+            "sentence_romanization": "pen wanthi mi daetchat",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:41.994264Z",
+        "last_review_date": null
+    },
+    {
+        "id": 86,
+        "word": {
+            "id": 86,
+            "thai": "ปี",
+            "french": "année"
+        },
+        "x": -0.6333116888999939,
+        "y": 0.41548094153404236,
+        "z": -0.6529104113578796,
+        "cluster_id": 3,
+        "cluster_label": "Time Expressions",
+        "flashcard_infos": {
+            "thai_sentence": "ปีนี้เป็นปีอะไร",
+            "french_sentence": "Quelle année sommes-nous ?",
+            "sub_words": [
+                "ปี",
+                "นี้",
+                "เป็น",
+                "ปี",
+                "อะไร"
+            ],
+            "romanization": "pi",
+            "sentence_romanization": "pi ni pen pi arai",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:43.391547Z",
+        "last_review_date": null
+    },
+    {
+        "id": 87,
+        "word": {
+            "id": 87,
+            "thai": "บ้าน",
+            "french": "maison"
+        },
+        "x": -0.8270571231842041,
+        "y": 0.4563653767108917,
+        "z": -0.32818764448165894,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันอยู่ที่บ้าน",
+            "french_sentence": "Je suis à la maison.",
+            "sub_words": [
+                "ฉัน",
+                "อยู่",
+                "ที่",
+                "บ้าน"
+            ],
+            "romanization": "ban",
+            "sentence_romanization": "chan yu thi ban",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:44.867537Z",
+        "last_review_date": "2026-02-17T07:25:57.038540Z"
+    },
+    {
+        "id": 88,
+        "word": {
+            "id": 88,
+            "thai": "ห้อง",
+            "french": "chambre/pièce"
+        },
+        "x": -0.6504094004631042,
+        "y": 0.6030617356300354,
+        "z": -0.46182703971862793,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ห้องนี้น่าสบาย",
+            "french_sentence": "Cette pièce est agréable.",
+            "sub_words": [
+                "ห้อง",
+                "นี้",
+                "น่า",
+                "สบาย"
+            ],
+            "romanization": "hong",
+            "sentence_romanization": "hong ni na sabai",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:46.612967Z",
+        "last_review_date": null
+    },
+    {
+        "id": 89,
+        "word": {
+            "id": 89,
+            "thai": "โรงเรียน",
+            "french": "école"
+        },
+        "x": -0.6955003142356873,
+        "y": 0.6631688475608826,
+        "z": -0.27656176686286926,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "เขาไปโรงเรียน",
+            "french_sentence": "Il va à l'école.",
+            "sub_words": [
+                "เขา",
+                "ไป",
+                "โรงเรียน"
+            ],
+            "romanization": "rongrian",
+            "sentence_romanization": "khao pai rongrian",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "โรง",
+                    "เรียน"
+                ],
+                [
+                    "école",
+                    "apprendre"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:48.587663Z",
+        "last_review_date": null
+    },
+    {
+        "id": 90,
+        "word": {
+            "id": 90,
+            "thai": "งาน",
+            "french": "travail"
+        },
+        "x": -0.4697345793247223,
+        "y": 0.6162363290786743,
+        "z": -0.6321410536766052,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "งานของฉันยาก",
+            "french_sentence": "Mon travail est difficile.",
+            "sub_words": [
+                "งาน",
+                "ของ",
+                "ฉัน",
+                "ยาก"
+            ],
+            "romanization": "ngan",
+            "sentence_romanization": "ngan khong chan yak",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:49.862759Z",
+        "last_review_date": null
+    },
+    {
+        "id": 91,
+        "word": {
+            "id": 91,
+            "thai": "เงิน",
+            "french": "argent"
+        },
+        "x": 0.9982651472091675,
+        "y": -0.05706748366355896,
+        "z": 0.014495142735540867,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันไม่มีเงิน",
+            "french_sentence": "Je n'ai pas d'argent.",
+            "sub_words": [
+                "ฉัน",
+                "ไม่",
+                "มีเงิน"
+            ],
+            "romanization": "ngoen",
+            "sentence_romanization": "chan mai mingoen",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:51.031332Z",
+        "last_review_date": null
+    },
+    {
+        "id": 92,
+        "word": {
+            "id": 92,
+            "thai": "อาหาร",
+            "french": "nourriture"
+        },
+        "x": 0.2107936590909958,
+        "y": 0.9649443030357361,
+        "z": 0.15636059641838074,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "อาหารไทยอร่อยมาก",
+            "french_sentence": "La cuisine thaïlandaise est délicieuse.",
+            "sub_words": [
+                "อาหาร",
+                "ไทย",
+                "อร่อย",
+                "มาก"
+            ],
+            "romanization": "ahan",
+            "sentence_romanization": "ahan thai aroi mak",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 1,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:53.105850Z",
+        "last_review_date": null
+    },
+    {
+        "id": 93,
+        "word": {
+            "id": 93,
+            "thai": "น้ำ",
+            "french": "eau"
+        },
+        "x": -0.2011134773492813,
+        "y": 0.7636825442314148,
+        "z": -0.6134674549102783,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "น้ำครับ",
+            "french_sentence": "De l'eau, s'il vous plaît.",
+            "sub_words": [
+                "น้ำ",
+                "ครับ"
+            ],
+            "romanization": "nam",
+            "sentence_romanization": "nam khrap",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:54.187110Z",
+        "last_review_date": null
+    },
+    {
+        "id": 94,
+        "word": {
+            "id": 94,
+            "thai": "ข้าว",
+            "french": "riz"
+        },
+        "x": -0.043034061789512634,
+        "y": 0.8135343790054321,
+        "z": -0.5799223184585571,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ฉันชอบกินข้าว",
+            "french_sentence": "J'aime manger du riz.",
+            "sub_words": [
+                "ฉัน",
+                "ชอบ",
+                "กินข้าว"
+            ],
+            "romanization": "khao",
+            "sentence_romanization": "chan chop kinkhao",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:56.184751Z",
+        "last_review_date": null
+    },
+    {
+        "id": 95,
+        "word": {
+            "id": 95,
+            "thai": "รถ",
+            "french": "voiture"
+        },
+        "x": 0.048739850521087646,
+        "y": 0.9706355929374695,
+        "z": 0.23556534945964813,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "รถคันแดง",
+            "french_sentence": "Une voiture rouge.",
+            "sub_words": [
+                "รถ",
+                "คัน",
+                "แดง"
+            ],
+            "romanization": "rot",
+            "sentence_romanization": "rot khan daeng",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:37:57.765632Z",
+        "last_review_date": null
+    },
+    {
+        "id": 96,
+        "word": {
+            "id": 96,
+            "thai": "ห้องน้ำ",
+            "french": "toilettes"
+        },
+        "x": -0.7339192032814026,
+        "y": 0.3173069655895233,
+        "z": -0.600565493106842,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ห้องน้ำอยู่ที่ไหน",
+            "french_sentence": "Où sont les toilettes ?",
+            "sub_words": [
+                "ห้องน้ำ",
+                "อยู่",
+                "ที่ไหน"
+            ],
+            "romanization": "hongnam",
+            "sentence_romanization": "hongnam yu thinai",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ห้อง",
+                    "น้ำ"
+                ],
+                [
+                    "pièce",
+                    "eau"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:38:00.129342Z",
+        "last_review_date": null
+    },
+    {
+        "id": 97,
+        "word": {
+            "id": 97,
+            "thai": "ขอโทษ",
+            "french": "désolé/pardon"
+        },
+        "x": -0.7169182300567627,
+        "y": -0.6532883048057556,
+        "z": 0.24339818954467773,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ขอโทษครับ",
+            "french_sentence": "Excusez-moi.",
+            "sub_words": [
+                "ขอโทษ",
+                "ครับ"
+            ],
+            "romanization": "khothot",
+            "sentence_romanization": "khothot khrap",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ขอ",
+                    "โทษ"
+                ],
+                [
+                    "demander",
+                    "punition"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:38:02.010413Z",
+        "last_review_date": null
+    },
+    {
+        "id": 98,
+        "word": {
+            "id": 98,
+            "thai": "ขอบคุณ",
+            "french": "merci"
+        },
+        "x": -0.8065255284309387,
+        "y": -0.5131862163543701,
+        "z": 0.2935243248939514,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ขอบคุณสำหรับทุกอย่าง",
+            "french_sentence": "Merci pour tout.",
+            "sub_words": [
+                "ขอบคุณ",
+                "สำหรับ",
+                "ทุกอย่าง"
+            ],
+            "romanization": "khopkhun",
+            "sentence_romanization": "khopkhun samrap thukyang",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ขอบ",
+                    "คุณ"
+                ],
+                [
+                    "bord",
+                    "vous"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 3,
+        "tags": [],
+        "add_date": "2026-02-05T10:38:04.030059Z",
+        "last_review_date": null
+    },
+    {
+        "id": 99,
+        "word": {
+            "id": 99,
+            "thai": "สวัสดี",
+            "french": "bonjour"
+        },
+        "x": -0.6815939545631409,
+        "y": -0.5863032341003418,
+        "z": -0.43781062960624695,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "สวัสดี",
+            "french_sentence": "Bonjour.",
+            "sub_words": [
+                "สวัสดี"
+            ],
+            "romanization": "sawatdi",
+            "sentence_romanization": "sawatdi",
+            "word_type": "Nom",
+            "components": null
+        },
+        "is_favorite": false,
+        "srs_level": 2,
+        "tags": [],
+        "add_date": "2026-02-05T10:38:05.017961Z",
+        "last_review_date": null
+    },
+    {
+        "id": 100,
+        "word": {
+            "id": 100,
+            "thai": "ลาก่อน",
+            "french": "au revoir"
+        },
+        "x": -0.6204610466957092,
+        "y": -0.6977025866508484,
+        "z": -0.35810524225234985,
+        "cluster_id": 8,
+        "cluster_label": "Basic Vocabulary",
+        "flashcard_infos": {
+            "thai_sentence": "ลาก่อน พบกันเร็วๆ นี้",
+            "french_sentence": "Au revoir, à bientôt.",
+            "sub_words": [
+                "ลาก่อน",
+                " ",
+                "พบกัน",
+                "เร็ว",
+                "ๆ",
+                " ",
+                "นี้"
+            ],
+            "romanization": "lakon",
+            "sentence_romanization": "lakon   phopkan reo ๆ   ni",
+            "word_type": "Nom",
+            "components": [
+                [
+                    "ลา",
+                    "ก่อน"
+                ],
+                [
+                    "partir",
+                    "avant"
+                ]
+            ]
+        },
+        "is_favorite": false,
+        "srs_level": 0,
+        "tags": [],
+        "add_date": "2026-02-05T10:38:07.269597Z",
+        "last_review_date": null
+    }
+]

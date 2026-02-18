@@ -1,0 +1,127 @@
+/* ==========================================
+   Responsive Design (Mobile/Tablet)
+   ========================================== */
+
+@media (max-width: 900px) {
+
+    /* Layout Logic */
+    .top-bar {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 15px;
+        background: linear-gradient(to bottom, rgba(5, 5, 16, 0.95), rgba(5, 5, 16, 0.8));
+    }
+
+    .top-bar h1 {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .controls-group {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+        max-height: 60vh;
+        overflow-y: auto;
+    }
+
+    .glass-panel {
+        flex: 1 1 auto;
+        /* Allow panels to grow and shrink */
+        min-width: 140px;
+        /* Prevent them from getting too small */
+        justify-content: center;
+    }
+
+    .glass-panel select,
+    .glass-panel input {
+        width: 100%;
+        text-align: center;
+    }
+
+    #search-input {
+        min-width: 100px;
+    }
+
+    /* Buttons in controls */
+    .controls-group button {
+        flex: 1 1 auto;
+        padding: 10px 15px;
+        font-size: 0.9rem;
+    }
+
+    /* Hide some less critical filters if screen is very small or stack them */
+    /* For now we stack them */
+
+    /* Modals */
+    .modal {
+        width: 95vw;
+        max-width: 95vw;
+        padding: 20px;
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+
+    .flashcard .word-thai {
+        font-size: 2.5rem;
+    }
+
+    .flashcard .translation {
+        font-size: 1.2rem;
+    }
+
+    /* Quiz Modal adjustments */
+    .quiz-modal {
+        width: 95vw;
+    }
+
+    .quiz-type-grid {
+        grid-template-columns: 1fr;
+        /* Stack quiz types */
+    }
+
+    .quiz-options {
+        grid-template-columns: 1fr;
+        /* Stack MCQ options */
+    }
+
+    /* Fixed buttons */
+    .reorient-btn {
+        bottom: 80px;
+        /* Move up slightly to avoid conflicts */
+        left: 20px;
+        width: 44px;
+        height: 44px;
+        font-size: 1.2rem;
+    }
+
+    .component-filter-banner {
+        bottom: 20px;
+        right: 20px;
+        left: 20px;
+        /* Make it stretch or center */
+        justify-content: space-between;
+        font-size: 0.85rem;
+    }
+
+    /* Adjust font sizes globally if needed */
+    body {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .controls-group {
+        gap: 8px;
+    }
+
+    .glass-panel {
+        min-width: 100%;
+        /* Full width filters on very small screens */
+    }
+
+    .top-bar h1 {
+        font-size: 1.2rem;
+    }
+}
