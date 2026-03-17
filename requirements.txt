@@ -1,6 +1,5 @@
 django>=5.0
 djangorestframework
-whitenoise[brotli]
 gunicorn
 numpy
 pandas
